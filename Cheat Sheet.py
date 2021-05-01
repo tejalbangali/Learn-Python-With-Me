@@ -2,8 +2,8 @@
 a=10
 b=5
 
-print(a + b)   #Addition
-print(a - b)   #Subtraction
+print(a + b)   
+print(a - b)   
 print(a * b)   #Multiplication
 print(a / b)   #True Division
 print(a // b)  #Floor Division
